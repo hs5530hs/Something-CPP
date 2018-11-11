@@ -1,2 +1,2 @@
 # Something-CPP
-record some topic about c++  which i think is importyant.
+record some topics about c++  which i think is important.
